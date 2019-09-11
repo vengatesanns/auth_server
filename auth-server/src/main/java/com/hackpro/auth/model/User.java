@@ -1,5 +1,6 @@
 package com.hackpro.auth.model;
 
+import java.io.Serializable;
 import java.util.List;
 
 import javax.persistence.Column;
@@ -18,7 +19,7 @@ import lombok.Data;
 @Entity
 @Table(name = "user")
 @Data
-public class User {
+public class User implements Serializable {
     public User() {
     }
 
