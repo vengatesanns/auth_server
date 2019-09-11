@@ -1,0 +1,5 @@
+package com.hackpro.auth.config;
+
+public class WebSecurityConfiguration {
+
+}

@@ -1,0 +1,5 @@
+package com.hackpro.auth.model;
+
+public class User {
+
+}
