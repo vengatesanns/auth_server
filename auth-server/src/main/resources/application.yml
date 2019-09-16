@@ -19,3 +19,9 @@ logging:
     org:
       hibernate:
         type: trace
+        
+ 
+---
+spring:
+  application:
+    name: auth-server        
