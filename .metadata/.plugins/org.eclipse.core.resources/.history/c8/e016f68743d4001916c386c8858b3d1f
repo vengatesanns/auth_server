@@ -1,7 +1,0 @@
-package com.hackpro.auth.model;
-
-import org.springframework.security.core.userdetails.UserDetails;
-
-public class UserDetailsPrincipal extends User implements UserDetails {
-
-}

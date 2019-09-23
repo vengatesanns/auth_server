@@ -1,5 +1,0 @@
-package com.hackpro.auth.service;
-
-public class UserDetailServiceImpl {
-
-}
